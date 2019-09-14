@@ -1,0 +1,23 @@
+{
+  "name": "ip9x",
+  "version": "1.0.0",
+  "description": "KPI course \"Fundamentals of programming\"",
+  "main": "main.js",
+  "scripts": {
+    "test": "eslint ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OleksiiVer/IP9X.git"
+  },
+  "author": "ALX",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/OleksiiVer/IP9X/issues"
+  },
+  "homepage": "https://github.com/OleksiiVer/IP9X#readme",
+  "devDependencies": {
+    "eslint": "^6.4.0"
+  },
+  "dependencies": {}
+}
